@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\CSharp\\Chapter7\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\CSharp\\Chapter8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0589CF4-5BD1-4B50-A3C8-CA164959023B}|Chapter7.csproj|c:\\users\\asus\\source\\repos\\csharp\\chapter7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0589CF4-5BD1-4B50-A3C8-CA164959023B}|Chapter7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E3F745F-8BE4-4ACE-A1BA-ED74DE6F4CCE}|Chapter8.csproj|c:\\users\\asus\\source\\repos\\csharp\\chapter8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3F745F-8BE4-4ACE-A1BA-ED74DE6F4CCE}|Chapter8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CSharp\\Chapter7\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CSharp\\Chapter8\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CSharp\\Chapter7\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CSharp\\Chapter8\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAN8CAAAAAAAAAAAAAJ0AAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T02:43:58.28Z",
+              "WhenOpened": "2024-10-05T05:50:07.454Z",
               "EditorCaption": ""
             }
           ]

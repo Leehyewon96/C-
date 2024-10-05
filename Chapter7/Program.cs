@@ -1,4 +1,7 @@
-﻿using MyExtension;
+﻿using System;
+using System.Net.Cache;
+using System.Threading.Tasks.Dataflow;
+using MyExtension;
 
 namespace BasicClass
 {
@@ -564,13 +567,193 @@ namespace MyExtension
 
 namespace ExtesionMethod
 {
-    class MainApp
+    //class MainApp
+    //{
+    //    static void Main(string[] args)
+    //    {
+    //        Console.WriteLine($"3^2 : {3.Square()}");
+    //        Console.WriteLine($"3^4 : {3.Power(4)}");
+    //        Console.WriteLine($"2^10 : {2.Power(10)}");
+    //    }
+    //}
+}
+
+namespace Structure
+{
+    struct Point3D
     {
-        static void Main(string[] args)
+        public int X;
+        public int Y;
+        public int Z;
+
+        public Point3D(int X, int Y, int Z)
         {
-            Console.WriteLine($"3^2 : {3.Square()}");
-            Console.WriteLine($"3^4 : {3.Power(4)}");
-            Console.WriteLine($"2^10 : {2.Power(10)}");
+            this.X = X;
+            this.Y = Y;
+            this.Z = Z;
+        }
+
+        public override string ToString()
+        {
+            return string.Format($"{X}, {Y}, {Z}");
         }
     }
+
+    class MainApp
+    {
+        //static void Main(string[] args)
+        //{
+        //    Point3D p3d1;
+        //    p3d1.X = 10;
+        //    p3d1.Y = 20;
+        //    p3d1.Z = 40;
+
+        //    Console.WriteLine(p3d1.ToString());
+
+        //    Point3D p3d2 = new Point3D(100, 200, 300);
+        //    Point3D p3d3 = p3d2;
+        //    p3d3.Z = 400;
+
+        //    Console.WriteLine(p3d2.ToString());
+        //    Console.WriteLine(p3d3.ToString());
+        //}
+    }
+}
+
+namespace ReadonlyStruct
+{
+    readonly struct RGBColor
+    {
+        public readonly byte R;
+        public readonly byte G;
+        public readonly byte B;
+
+        public RGBColor(byte r, byte g, byte b)
+        {
+            R = r;
+            G = g;
+            B = b;
+        }
+    }
+
+    class MainApp
+    {
+        //static void Main(string[] args)
+        //{
+        //    RGBColor Red = new RGBColor(255, 0, 0);
+        //    Red.G = 10;
+        //}
+    }
+}
+
+namespace ReadonlyMethod
+{
+    struct ACSetting
+    {
+        public double currentInCelsius;
+        public double target;
+
+        public readonly double GetFahrenheit()
+        {
+            return currentInCelsius * 1.8 + 32;
+        }
+    }
+
+    class MainApp()
+    {
+        //static void Main(string[] args)
+        //{
+        //    ACSetting acs;
+        //    acs.currentInCelsius = 25;
+        //    acs.target = 25;
+
+        //    Console.WriteLine($"{acs.GetFahrenheit()}");
+        //    Console.WriteLine($"{acs.target}");
+        //}
+    }
+}
+
+namespace Tuple
+{
+    class MainApp
+    {
+        //static void Main(string[] args)
+        //{
+        //    // 명명되지 않은 튜플
+        //    var a = ("슈퍼맨", 9999);
+        //    Console.WriteLine($"{a.Item1}, {a.Item2}");
+
+        //    // 명명된 튜플
+        //    var b = (Name: "박상현", Age: 17);
+        //    Console.WriteLine($"{b.Name}, {b.Age}");
+
+        //    // 분해
+        //    var (name, age) = b;
+        //    Console.WriteLine($"{name} {age}");
+
+        //    // 분해2
+        //    var (name2, age2) = ("박문수", 34);
+        //    Console.WriteLine($"{name2}, {age2}");
+
+        //    // 명명된 튜플 = 명명되지 않은 튜플
+        //    b = a;
+        //    Console.WriteLine($"{b.Name}, {b.Age}");
+        //}
+    }
+}
+
+namespace PosisionalPattern
+{
+    class MainApp
+    {
+        private static double GetDiscountRate(object client)
+        {
+            return client switch
+            {
+                ("학생", int n) when n < 18 => 0.2,
+                ("학생", _) => 0.1,
+                ("일반", int n) when n < 18 => 0.1,
+                ("일반", _) => 0.05,
+                _ => 0,
+            };
+        }
+
+        static void Main(string[] args)
+        {
+            var alice = (Job: "학생", age: 17);
+            var bob = (Job: "학생", age: 23);
+            var charlie = (Job: "일반", age: 15);
+            var dave = (Job: "일반", age: 21);
+
+            Console.WriteLine($"alice   : {GetDiscountRate(alice)}");
+            Console.WriteLine($"alice   : {GetDiscountRate(bob)}");
+            Console.WriteLine($"alice   : {GetDiscountRate(charlie)}");
+            Console.WriteLine($"alice   : {GetDiscountRate(dave)}");
+        }
+    }
+}
+
+namespace ex
+{
+    class classA
+    {
+
+    }
+
+    class ClassB : classA
+    {
+
+    }
+
+    class ClassC
+    { 
+        //static void Main(string[] args)
+        //{
+        //    classA a = new classA();
+        //    ClassB b = new ClassB();
+        //    classA c = new ClassB();
+        //    ClassB d = new classA();
+        //}
+    }
+
 }
