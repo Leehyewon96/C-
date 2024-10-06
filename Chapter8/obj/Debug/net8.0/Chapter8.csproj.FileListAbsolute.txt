@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\CSharp\Chapter8\bin\Debug\net8.0\Chapter8.exe
+C:\Users\ASUS\source\repos\CSharp\Chapter8\bin\Debug\net8.0\Chapter8.deps.json
+C:\Users\ASUS\source\repos\CSharp\Chapter8\bin\Debug\net8.0\Chapter8.runtimeconfig.json
+C:\Users\ASUS\source\repos\CSharp\Chapter8\bin\Debug\net8.0\Chapter8.dll
+C:\Users\ASUS\source\repos\CSharp\Chapter8\bin\Debug\net8.0\Chapter8.pdb
+C:\Users\ASUS\source\repos\CSharp\Chapter8\obj\Debug\net8.0\Chapter8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\CSharp\Chapter8\obj\Debug\net8.0\Chapter8.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\CSharp\Chapter8\obj\Debug\net8.0\Chapter8.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\CSharp\Chapter8\obj\Debug\net8.0\Chapter8.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharp\Chapter8\obj\Debug\net8.0\Chapter8.sourcelink.json
+C:\Users\ASUS\source\repos\CSharp\Chapter8\obj\Debug\net8.0\Chapter8.dll
+C:\Users\ASUS\source\repos\CSharp\Chapter8\obj\Debug\net8.0\refint\Chapter8.dll
+C:\Users\ASUS\source\repos\CSharp\Chapter8\obj\Debug\net8.0\Chapter8.pdb
+C:\Users\ASUS\source\repos\CSharp\Chapter8\obj\Debug\net8.0\Chapter8.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\CSharp\Chapter8\obj\Debug\net8.0\ref\Chapter8.dll
