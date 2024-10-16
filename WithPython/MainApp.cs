@@ -23,7 +23,7 @@ class NameCard :
     name = ''
     phone = ''
 
-    def _init_(self, name, phone) :
+    def __init__(self, name, phone) :
         self.name = name
         self.phone = phone
 
