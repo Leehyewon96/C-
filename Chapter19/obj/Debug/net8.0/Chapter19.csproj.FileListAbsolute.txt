@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\CSharp\Chapter19\bin\Debug\net8.0\Chapter19.exe
+C:\Users\ASUS\source\repos\CSharp\Chapter19\bin\Debug\net8.0\Chapter19.deps.json
+C:\Users\ASUS\source\repos\CSharp\Chapter19\bin\Debug\net8.0\Chapter19.runtimeconfig.json
+C:\Users\ASUS\source\repos\CSharp\Chapter19\bin\Debug\net8.0\Chapter19.dll
+C:\Users\ASUS\source\repos\CSharp\Chapter19\bin\Debug\net8.0\Chapter19.pdb
+C:\Users\ASUS\source\repos\CSharp\Chapter19\obj\Debug\net8.0\Chapter19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\CSharp\Chapter19\obj\Debug\net8.0\Chapter19.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\CSharp\Chapter19\obj\Debug\net8.0\Chapter19.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\CSharp\Chapter19\obj\Debug\net8.0\Chapter19.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharp\Chapter19\obj\Debug\net8.0\Chapter19.sourcelink.json
+C:\Users\ASUS\source\repos\CSharp\Chapter19\obj\Debug\net8.0\Chapter19.dll
+C:\Users\ASUS\source\repos\CSharp\Chapter19\obj\Debug\net8.0\refint\Chapter19.dll
+C:\Users\ASUS\source\repos\CSharp\Chapter19\obj\Debug\net8.0\Chapter19.pdb
+C:\Users\ASUS\source\repos\CSharp\Chapter19\obj\Debug\net8.0\Chapter19.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\CSharp\Chapter19\obj\Debug\net8.0\ref\Chapter19.dll

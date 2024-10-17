@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\CSharp\AbortingThread\bin\Debug\AbortingThread.exe.config
+C:\Users\ASUS\source\repos\CSharp\AbortingThread\bin\Debug\AbortingThread.exe
+C:\Users\ASUS\source\repos\CSharp\AbortingThread\bin\Debug\AbortingThread.pdb
+C:\Users\ASUS\source\repos\CSharp\AbortingThread\obj\Debug\AbortingThread.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CSharp\AbortingThread\obj\Debug\AbortingThread.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharp\AbortingThread\obj\Debug\AbortingThread.exe
+C:\Users\ASUS\source\repos\CSharp\AbortingThread\obj\Debug\AbortingThread.pdb
