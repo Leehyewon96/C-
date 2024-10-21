@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\CSharp\UsingControls\bin\Debug\net7.0-windows\UsingControls.exe
+C:\Users\ASUS\source\repos\CSharp\UsingControls\bin\Debug\net7.0-windows\UsingControls.deps.json
+C:\Users\ASUS\source\repos\CSharp\UsingControls\bin\Debug\net7.0-windows\UsingControls.runtimeconfig.json
+C:\Users\ASUS\source\repos\CSharp\UsingControls\bin\Debug\net7.0-windows\UsingControls.dll
+C:\Users\ASUS\source\repos\CSharp\UsingControls\bin\Debug\net7.0-windows\UsingControls.pdb
+C:\Users\ASUS\source\repos\CSharp\UsingControls\obj\Debug\net7.0-windows\UsingControls.MainForm.resources
+C:\Users\ASUS\source\repos\CSharp\UsingControls\obj\Debug\net7.0-windows\UsingControls.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CSharp\UsingControls\obj\Debug\net7.0-windows\UsingControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\CSharp\UsingControls\obj\Debug\net7.0-windows\UsingControls.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\CSharp\UsingControls\obj\Debug\net7.0-windows\UsingControls.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\CSharp\UsingControls\obj\Debug\net7.0-windows\UsingControls.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharp\UsingControls\obj\Debug\net7.0-windows\UsingControls.sourcelink.json
+C:\Users\ASUS\source\repos\CSharp\UsingControls\obj\Debug\net7.0-windows\UsingControls.dll
+C:\Users\ASUS\source\repos\CSharp\UsingControls\obj\Debug\net7.0-windows\refint\UsingControls.dll
+C:\Users\ASUS\source\repos\CSharp\UsingControls\obj\Debug\net7.0-windows\UsingControls.pdb
+C:\Users\ASUS\source\repos\CSharp\UsingControls\obj\Debug\net7.0-windows\UsingControls.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\CSharp\UsingControls\obj\Debug\net7.0-windows\ref\UsingControls.dll
