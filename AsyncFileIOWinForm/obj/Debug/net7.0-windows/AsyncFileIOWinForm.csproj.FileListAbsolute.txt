@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\CSharp\AsyncFileIOWinForm\obj\Debug\net7.0-windows\AsyncFileIOWinForm.MainForm.resources
+C:\Users\ASUS\source\repos\CSharp\AsyncFileIOWinForm\obj\Debug\net7.0-windows\AsyncFileIOWinForm.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CSharp\AsyncFileIOWinForm\obj\Debug\net7.0-windows\AsyncFileIOWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\CSharp\AsyncFileIOWinForm\obj\Debug\net7.0-windows\AsyncFileIOWinForm.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\CSharp\AsyncFileIOWinForm\obj\Debug\net7.0-windows\AsyncFileIOWinForm.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\CSharp\AsyncFileIOWinForm\obj\Debug\net7.0-windows\AsyncFileIOWinForm.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharp\AsyncFileIOWinForm\obj\Debug\net7.0-windows\AsyncFileIOWinForm.sourcelink.json
+C:\Users\ASUS\source\repos\CSharp\AsyncFileIOWinForm\bin\Debug\net7.0-windows\AsyncFileIOWinForm.exe
+C:\Users\ASUS\source\repos\CSharp\AsyncFileIOWinForm\bin\Debug\net7.0-windows\AsyncFileIOWinForm.deps.json
+C:\Users\ASUS\source\repos\CSharp\AsyncFileIOWinForm\bin\Debug\net7.0-windows\AsyncFileIOWinForm.runtimeconfig.json
+C:\Users\ASUS\source\repos\CSharp\AsyncFileIOWinForm\bin\Debug\net7.0-windows\AsyncFileIOWinForm.dll
+C:\Users\ASUS\source\repos\CSharp\AsyncFileIOWinForm\bin\Debug\net7.0-windows\AsyncFileIOWinForm.pdb
+C:\Users\ASUS\source\repos\CSharp\AsyncFileIOWinForm\obj\Debug\net7.0-windows\AsyncFileIOWinForm.dll
+C:\Users\ASUS\source\repos\CSharp\AsyncFileIOWinForm\obj\Debug\net7.0-windows\refint\AsyncFileIOWinForm.dll
+C:\Users\ASUS\source\repos\CSharp\AsyncFileIOWinForm\obj\Debug\net7.0-windows\AsyncFileIOWinForm.pdb
+C:\Users\ASUS\source\repos\CSharp\AsyncFileIOWinForm\obj\Debug\net7.0-windows\AsyncFileIOWinForm.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\CSharp\AsyncFileIOWinForm\obj\Debug\net7.0-windows\ref\AsyncFileIOWinForm.dll
