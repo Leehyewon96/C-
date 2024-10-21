@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\CSharp\SimpleWindow\bin\Debug\net7.0-windows\SimpleWindow.exe
+C:\Users\ASUS\source\repos\CSharp\SimpleWindow\bin\Debug\net7.0-windows\SimpleWindow.deps.json
+C:\Users\ASUS\source\repos\CSharp\SimpleWindow\bin\Debug\net7.0-windows\SimpleWindow.runtimeconfig.json
+C:\Users\ASUS\source\repos\CSharp\SimpleWindow\bin\Debug\net7.0-windows\SimpleWindow.dll
+C:\Users\ASUS\source\repos\CSharp\SimpleWindow\bin\Debug\net7.0-windows\SimpleWindow.pdb
+C:\Users\ASUS\source\repos\CSharp\SimpleWindow\obj\Debug\net7.0-windows\SimpleWindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\CSharp\SimpleWindow\obj\Debug\net7.0-windows\SimpleWindow.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\CSharp\SimpleWindow\obj\Debug\net7.0-windows\SimpleWindow.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\CSharp\SimpleWindow\obj\Debug\net7.0-windows\SimpleWindow.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharp\SimpleWindow\obj\Debug\net7.0-windows\SimpleWindow.sourcelink.json
+C:\Users\ASUS\source\repos\CSharp\SimpleWindow\obj\Debug\net7.0-windows\SimpleWindow.dll
+C:\Users\ASUS\source\repos\CSharp\SimpleWindow\obj\Debug\net7.0-windows\refint\SimpleWindow.dll
+C:\Users\ASUS\source\repos\CSharp\SimpleWindow\obj\Debug\net7.0-windows\SimpleWindow.pdb
+C:\Users\ASUS\source\repos\CSharp\SimpleWindow\obj\Debug\net7.0-windows\SimpleWindow.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\CSharp\SimpleWindow\obj\Debug\net7.0-windows\ref\SimpleWindow.dll
